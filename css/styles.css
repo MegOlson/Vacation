@@ -1,0 +1,27 @@
+.dark {
+  background-color: black;
+  color: white;
+}
+.dark .panel-body {
+  background-color: black;
+  color: white;
+}
+.dark .jumbotron {
+  background-color: grey;
+  color: white;
+}
+.dark .bg-success {
+  background-color: black;
+  color: green;
+}
+.dark .bg-primary {
+  background-color: black;
+  color: teal;
+}
+.dark .bg-info {
+  background-color: black;
+  color: lightblue;
+}
+#make-light {
+  display: none;
+}
