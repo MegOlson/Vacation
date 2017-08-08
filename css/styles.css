@@ -25,3 +25,11 @@
 #make-light {
   display: none;
 }
+.warm {
+  background-color: #ffcc99;
+  color: black;
+}
+.cool {
+  background-color:#66a3ff;
+  color: black;
+}
